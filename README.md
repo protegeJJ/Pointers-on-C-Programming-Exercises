@@ -1,1 +1,1 @@
-# Pointers on C Programming Exercises
+Pointers on C Programming Exercises
